@@ -1,0 +1,322 @@
+[
+  {
+    "slug": "aviator-classic",
+    "name": "Aviator Classic",
+    "category": "Aviator",
+    "description": "Gold wire teardrop aviator with double bridge and gradient grey lenses.",
+    "price": 129.0,
+    "currency": "USD",
+    "catalogue_image_url": "/static/glasses/aviator-classic_catalogue.png",
+    "transparent_overlay_url": "/static/glasses/aviator-classic_overlay.png",
+    "fit_metadata": {
+      "image_width": 1000,
+      "image_height": 440,
+      "anchor_x": 0.5,
+      "anchor_y": 0.4159,
+      "eye_span_ratio": 0.2948,
+      "left_lens_center": [
+        0.3229,
+        0.4659
+      ],
+      "right_lens_center": [
+        0.6771,
+        0.4659
+      ],
+      "frame_bounds": [
+        0.173,
+        0.2591,
+        0.828,
+        0.7455
+      ],
+      "default_scale": 1.0
+    }
+  },
+  {
+    "slug": "wayfarer-black",
+    "name": "Wayfarer Black",
+    "category": "Wayfarer",
+    "description": "Bold black acetate trapezoid frame with a strong brow line.",
+    "price": 99.0,
+    "currency": "USD",
+    "catalogue_image_url": "/static/glasses/wayfarer-black_catalogue.png",
+    "transparent_overlay_url": "/static/glasses/wayfarer-black_overlay.png",
+    "fit_metadata": {
+      "image_width": 1000,
+      "image_height": 440,
+      "anchor_x": 0.5,
+      "anchor_y": 0.4523,
+      "eye_span_ratio": 0.3069,
+      "left_lens_center": [
+        0.3147,
+        0.4659
+      ],
+      "right_lens_center": [
+        0.6853,
+        0.4659
+      ],
+      "frame_bounds": [
+        0.159,
+        0.2455,
+        0.841,
+        0.6818
+      ],
+      "default_scale": 1.0
+    }
+  },
+  {
+    "slug": "round-wire-gold",
+    "name": "Round Wire Gold",
+    "category": "Round",
+    "description": "Thin gold round frame inspired by vintage 1960s eyewear.",
+    "price": 89.0,
+    "currency": "USD",
+    "catalogue_image_url": "/static/glasses/round-wire-gold_catalogue.png",
+    "transparent_overlay_url": "/static/glasses/round-wire-gold_overlay.png",
+    "fit_metadata": {
+      "image_width": 1000,
+      "image_height": 440,
+      "anchor_x": 0.5,
+      "anchor_y": 0.4659,
+      "eye_span_ratio": 0.2484,
+      "left_lens_center": [
+        0.349,
+        0.4659
+      ],
+      "right_lens_center": [
+        0.651,
+        0.4659
+      ],
+      "frame_bounds": [
+        0.224,
+        0.2205,
+        0.776,
+        0.7114
+      ],
+      "default_scale": 1.0
+    }
+  },
+  {
+    "slug": "cat-eye-tortoise",
+    "name": "Cat-Eye Tortoise",
+    "category": "Cat-Eye",
+    "description": "Upswept tortoiseshell acetate cat-eye with a feminine silhouette.",
+    "price": 115.0,
+    "currency": "USD",
+    "catalogue_image_url": "/static/glasses/cat-eye-tortoise_catalogue.png",
+    "transparent_overlay_url": "/static/glasses/cat-eye-tortoise_overlay.png",
+    "fit_metadata": {
+      "image_width": 1000,
+      "image_height": 440,
+      "anchor_x": 0.5,
+      "anchor_y": 0.4568,
+      "eye_span_ratio": 0.2889,
+      "left_lens_center": [
+        0.328,
+        0.4659
+      ],
+      "right_lens_center": [
+        0.672,
+        0.4659
+      ],
+      "frame_bounds": [
+        0.179,
+        0.2886,
+        0.821,
+        0.6636
+      ],
+      "default_scale": 1.0
+    }
+  },
+  {
+    "slug": "browline-classic",
+    "name": "Browline Classic",
+    "category": "Browline",
+    "description": "Black acetate brow bar over a thin silver lower rim.",
+    "price": 109.0,
+    "currency": "USD",
+    "catalogue_image_url": "/static/glasses/browline-classic_catalogue.png",
+    "transparent_overlay_url": "/static/glasses/browline-classic_overlay.png",
+    "fit_metadata": {
+      "image_width": 1000,
+      "image_height": 440,
+      "anchor_x": 0.5,
+      "anchor_y": 0.4659,
+      "eye_span_ratio": 0.2898,
+      "left_lens_center": [
+        0.325,
+        0.4659
+      ],
+      "right_lens_center": [
+        0.675,
+        0.4659
+      ],
+      "frame_bounds": [
+        0.178,
+        0.2432,
+        0.822,
+        0.6636
+      ],
+      "default_scale": 1.0
+    }
+  },
+  {
+    "slug": "slim-rectangle",
+    "name": "Slim Rectangle",
+    "category": "Rectangle",
+    "description": "Lightweight matte black rectangular frame for everyday wear.",
+    "price": 79.0,
+    "currency": "USD",
+    "catalogue_image_url": "/static/glasses/slim-rectangle_catalogue.png",
+    "transparent_overlay_url": "/static/glasses/slim-rectangle_overlay.png",
+    "fit_metadata": {
+      "image_width": 1000,
+      "image_height": 440,
+      "anchor_x": 0.5,
+      "anchor_y": 0.4659,
+      "eye_span_ratio": 0.2916,
+      "left_lens_center": [
+        0.3265,
+        0.4659
+      ],
+      "right_lens_center": [
+        0.6735,
+        0.4659
+      ],
+      "frame_bounds": [
+        0.176,
+        0.3068,
+        0.824,
+        0.625
+      ],
+      "default_scale": 1.0
+    }
+  },
+  {
+    "slug": "oversized-crystal",
+    "name": "Oversized Square Crystal",
+    "category": "Square",
+    "description": "Large square frame in transparent crystal acetate.",
+    "price": 119.0,
+    "currency": "USD",
+    "catalogue_image_url": "/static/glasses/oversized-crystal_catalogue.png",
+    "transparent_overlay_url": "/static/glasses/oversized-crystal_overlay.png",
+    "fit_metadata": {
+      "image_width": 1000,
+      "image_height": 440,
+      "anchor_x": 0.5,
+      "anchor_y": 0.4386,
+      "eye_span_ratio": 0.3258,
+      "left_lens_center": [
+        0.305,
+        0.4659
+      ],
+      "right_lens_center": [
+        0.695,
+        0.4659
+      ],
+      "frame_bounds": [
+        0.138,
+        0.1841,
+        0.862,
+        0.7477
+      ],
+      "default_scale": 1.0
+    }
+  },
+  {
+    "slug": "rimless-titanium",
+    "name": "Rimless Titanium",
+    "category": "Rimless",
+    "description": "Minimal rimless lenses with titanium bridge and hinges.",
+    "price": 149.0,
+    "currency": "USD",
+    "catalogue_image_url": "/static/glasses/rimless-titanium_catalogue.png",
+    "transparent_overlay_url": "/static/glasses/rimless-titanium_overlay.png",
+    "fit_metadata": {
+      "image_width": 1000,
+      "image_height": 440,
+      "anchor_x": 0.5,
+      "anchor_y": 0.4659,
+      "eye_span_ratio": 0.2718,
+      "left_lens_center": [
+        0.3365,
+        0.4659
+      ],
+      "right_lens_center": [
+        0.6635,
+        0.4659
+      ],
+      "frame_bounds": [
+        0.198,
+        0.2932,
+        0.802,
+        0.6386
+      ],
+      "default_scale": 1.0
+    }
+  },
+  {
+    "slug": "hexagon-silver",
+    "name": "Hexagon Silver",
+    "category": "Geometric",
+    "description": "Six-sided thin silver metal frame with a modern geometric look.",
+    "price": 95.0,
+    "currency": "USD",
+    "catalogue_image_url": "/static/glasses/hexagon-silver_catalogue.png",
+    "transparent_overlay_url": "/static/glasses/hexagon-silver_overlay.png",
+    "fit_metadata": {
+      "image_width": 1000,
+      "image_height": 440,
+      "anchor_x": 0.5,
+      "anchor_y": 0.4659,
+      "eye_span_ratio": 0.27,
+      "left_lens_center": [
+        0.3365,
+        0.4659
+      ],
+      "right_lens_center": [
+        0.6635,
+        0.4659
+      ],
+      "frame_bounds": [
+        0.2,
+        0.2818,
+        0.8,
+        0.65
+      ],
+      "default_scale": 1.0
+    }
+  },
+  {
+    "slug": "semi-rimless-navy",
+    "name": "Semi-Rimless Navy",
+    "category": "Semi-Rimless",
+    "description": "Navy upper rim with a nearly invisible lower nylon line.",
+    "price": 105.0,
+    "currency": "USD",
+    "catalogue_image_url": "/static/glasses/semi-rimless-navy_catalogue.png",
+    "transparent_overlay_url": "/static/glasses/semi-rimless-navy_overlay.png",
+    "fit_metadata": {
+      "image_width": 1000,
+      "image_height": 440,
+      "anchor_x": 0.5,
+      "anchor_y": 0.4659,
+      "eye_span_ratio": 0.2907,
+      "left_lens_center": [
+        0.326,
+        0.4659
+      ],
+      "right_lens_center": [
+        0.674,
+        0.4659
+      ],
+      "frame_bounds": [
+        0.177,
+        0.2818,
+        0.823,
+        0.6341
+      ],
+      "default_scale": 1.0
+    }
+  }
+]

@@ -1,0 +1,48 @@
+name: glasses_tryon
+description: AI face detection and 2D virtual eyeglass try-on.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.0
+  flutter: ">=3.44.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Face detection + landmarks (on-device, Google ML Kit). Android/iOS only.
+  google_mlkit_face_detection: ^0.15.1
+  camera: ^0.12.1
+  image_picker: ^1.2.4
+  # Save try-on images to the gallery / Photos.
+  gal: ^2.3.3
+  flutter_riverpod: ^3.4.3
+  dio: ^5.11.1
+  shared_preferences: ^2.5.6
+  path_provider: ^2.1.6
+  # Pure-Dart decoding used to normalise EXIF orientation of photos.
+  image: ^4.10.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+# App icon: python tool/generate_branding.py && dart run flutter_launcher_icons
+flutter_launcher_icons:
+  image_path: "assets/branding/icon.png"
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  adaptive_icon_background: "assets/branding/icon_background.png"
+  adaptive_icon_foreground: "assets/branding/icon_foreground.png"
+  adaptive_icon_foreground_inset: 4
+  adaptive_icon_monochrome: "assets/branding/icon_monochrome.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    # Bundled demo catalogue: used offline when the backend is unreachable.
+    - assets/glasses/
+    - assets/branding/logo.png
